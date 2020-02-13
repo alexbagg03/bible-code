@@ -1,4 +1,4 @@
-class `Psalm 3_5-6` {
+class `Psalms 3_5-6` {
    
     fun trustIn(theLord: God) {
      	with(all(yourHeart)) {
